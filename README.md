@@ -10,5 +10,5 @@
 | Toph | [Guess.who](https://toph.co/u/Guess.Who) | 109 | 1256 | 15 |
 | LightOj | [sunset_](https://lightoj.com/user/sunset_) | 108 | N/A | N/A |
 | Spoj | [fr_sarker](https://www.spoj.com/myaccount/) | 32 | N/A | N/A |
-| CSES | [Cloud_](https://cses.fi/problemset/user/6825/) | 107 | N/A | N/A |
+| CSES | [fr_sarker](https://cses.fi/problemset/user/6825/) | 107 | N/A | N/A |
 | Total | | 4308 | | 407 |
